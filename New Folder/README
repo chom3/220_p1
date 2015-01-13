@@ -1,0 +1,10 @@
+Name:		Hom, Corey
+B-Number:	B00398193
+Email:		chom3@binghamton.edu
+
+USAGE:
+encode:
+./steg IMG 'text to be encoded' > [IMG]
+
+decode:
+./steg [IMG]
